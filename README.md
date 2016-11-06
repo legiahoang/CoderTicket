@@ -3,7 +3,7 @@
 **Name of your app** is a Ruby on Rails application that allows users to create and buy tickets to cool events.
 
 - Submitted by: **Your Name Here**
-- Time spent: **X** hours
+- Time spent: **7** hours
 - URL: **Insert your Heroku URL here**
 - SimpleCov Test Coverage: [coverage/index.html][coverage][index.html]
 
@@ -12,7 +12,7 @@
 The following **required** functionality is complete:
 
 * [ ] Implement required user stories
-* [ ] 10 model tests, 2 route tests, 2 controller tests, 2 view tests.
+* [X] 5 model tests, 2 route tests, 0 controller tests, 1 view tests.
 
 The person with best test coverage will win a small present from the instructor :)
 
